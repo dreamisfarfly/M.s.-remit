@@ -1,0 +1,30 @@
+.menu.data-v-ec6dafe4 {
+  font-family: PingFangSC-Medium, PingFang SC;
+  width: 100%;
+}
+.menu .menu-list.data-v-ec6dafe4 {
+  padding-top: 60rpx;
+  padding-bottom: 38rpx;
+  border-bottom: 2rpx solid #F4F4F4;
+  display: flex;
+  justify-content: space-between;
+}
+.menu .menu-list .menu-info.data-v-ec6dafe4 {
+  display: flex;
+  align-items: center;
+}
+.menu .menu-list .menu-info .menu-icon.data-v-ec6dafe4 {
+  width: 40rpx;
+  height: 40rpx;
+}
+.menu .menu-list .menu-info .menu-title.data-v-ec6dafe4 {
+  margin-left: 20rpx;
+  font-size: 32rpx;
+  font-weight: 550;
+  color: #1A1A1A;
+}
+.menu .menu-list .skip-page.data-v-ec6dafe4 {
+  width: 40rpx;
+  height: 40rpx;
+}
+

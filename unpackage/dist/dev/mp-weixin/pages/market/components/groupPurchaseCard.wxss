@@ -1,0 +1,57 @@
+.group-purchase-card.data-v-9d5617be {
+  padding: 24rpx 24rpx;
+  box-sizing: border-box;
+  background: #FFFFFF;
+  display: flex;
+  white-space: normal;
+}
+.group-purchase-card .recent-deals-img.data-v-9d5617be {
+  width: 216rpx;
+  height: 216rpx;
+  border-radius: 8rpx;
+  flex-shrink: 0;
+}
+.group-purchase-card .recent-deals-info.data-v-9d5617be {
+  margin-left: 24rpx;
+  position: relative;
+}
+.group-purchase-card .recent-deals-info .recent-deals-title.data-v-9d5617be {
+  font-size: 28rpx;
+  font-weight: 550;
+  color: #444444;
+  line-height: 20px;
+  text-overflow: -o-ellipsis-lastline;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.group-purchase-card .recent-deals-info .recent-deals-price.data-v-9d5617be {
+  margin-top: 24rpx;
+  font-size: 36rpx;
+  font-weight: 500;
+  color: #ED3632;
+  line-height: 50rpx;
+}
+.group-purchase-card .recent-deals-info .recent-deals-original-price.data-v-9d5617be {
+  margin-top: 10rpx;
+  font-size: 24rpx;
+  font-weight: 400;
+  color: #999999;
+  line-height: 34rpx;
+  text-decoration: line-through;
+}
+.group-purchase-card .recent-deals-info .go-group.data-v-9d5617be {
+  position: absolute;
+  right: 0rpx;
+  bottom: 26rpx;
+  padding: 10rpx 22rpx;
+  background: linear-gradient(62deg, #1F2020 0%, #444444 100%);
+  border-radius: 4rpx;
+  font-size: 24rpx;
+  font-weight: 400;
+  color: #FFFFFF;
+}
+

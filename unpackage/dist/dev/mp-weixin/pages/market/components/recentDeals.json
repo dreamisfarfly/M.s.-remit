@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "card-header": "/components/cardHeader/cardHeader",
+    "group-purchase-card": "/pages/market/components/groupPurchaseCard"
+  },
+  "component": true
+}

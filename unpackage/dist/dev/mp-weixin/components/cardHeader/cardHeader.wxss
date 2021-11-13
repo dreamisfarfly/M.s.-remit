@@ -1,0 +1,34 @@
+.exhibition-card-header.data-v-1e45fba4 {
+  padding: 28rpx 0;
+  display: flex;
+  justify-content: space-between;
+}
+.exhibition-card-header .title-info.data-v-1e45fba4 {
+  display: flex;
+  align-items: center;
+}
+.exhibition-card-header .title-info .exhibition-card-img.data-v-1e45fba4 {
+  width: 34rpx;
+  height: 34rpx;
+}
+.exhibition-card-header .title-info .exhibition-card-title.data-v-1e45fba4 {
+  margin-left: 20rpx;
+  font-size: 30rpx;
+  font-weight: 600;
+  color: #1A1A1A;
+}
+.exhibition-card-header .skip-view.data-v-1e45fba4 {
+  display: flex;
+  align-items: center;
+}
+.exhibition-card-header .skip-view .view-more.data-v-1e45fba4 {
+  font-size: 24rpx;
+  font-weight: 400;
+  color: #4C4C4C;
+}
+.exhibition-card-header .skip-view .skip-icon.data-v-1e45fba4 {
+  margin-left: 10rpx;
+  width: 24rpx;
+  height: 26rpx;
+}
+

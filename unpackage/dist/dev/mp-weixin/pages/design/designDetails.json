@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "stylist-card": "/pages/design/components/stylistCard"
+  }
+}

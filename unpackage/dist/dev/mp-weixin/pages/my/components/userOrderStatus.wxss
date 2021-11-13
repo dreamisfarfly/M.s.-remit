@@ -1,0 +1,43 @@
+.user-order-status.data-v-cd7a9794 {
+  width: 100%;
+  background: #FFFFFF;
+  padding: 24rpx 0;
+  display: flex;
+  font-family: PingFangSC-Regular, PingFang SC;
+}
+.user-order-status .user-order-status-list.data-v-cd7a9794 {
+  width: 20%;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  padding-top: 26rpx;
+  position: relative;
+}
+.user-order-status .user-order-status-list .order-icon.data-v-cd7a9794 {
+  width: 54rpx;
+  height: 54rpx;
+}
+.user-order-status .user-order-status-list .order-icon-title.data-v-cd7a9794 {
+  margin-top: 12rpx;
+  font-size: 24rpx;
+  font-weight: 400;
+  color: #999999;
+  line-height: 34rpx;
+}
+.user-order-status .user-order-status-list .order-number.data-v-cd7a9794 {
+  position: absolute;
+  top: 2rpx;
+  right: 20rpx;
+  color: #FFFFFF;
+  font-weight: 500;
+  font-size: 22rpx;
+  min-width: 16rpx;
+  height: 40rpx;
+  line-height: 40rpx;
+  padding: 0 12rpx;
+  font-weight: normal;
+  text-align: center;
+  background: #e23442;
+  border-radius: 22rpx;
+}
+

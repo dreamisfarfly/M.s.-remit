@@ -1,0 +1,34 @@
+.select-address.data-v-d18abb0e {
+  padding: 0 30rpx;
+  background-color: #FFFFFF;
+}
+.select-address .select-address-list.data-v-d18abb0e {
+  padding: 20rpx 0;
+}
+.icon-img.data-v-d18abb0e {
+  width: 40rpx;
+  height: 40rpx;
+}
+.info-mar.data-v-d18abb0e {
+  margin-left: 20rpx;
+}
+.consignee.data-v-d18abb0e {
+  font-size: 32rpx;
+  font-weight: 500;
+  color: #222222;
+}
+.phone.data-v-d18abb0e {
+  font-size: 32rpx;
+  font-weight: 500;
+  color: #222222;
+}
+.address.data-v-d18abb0e {
+  font-size: 28rpx;
+  color: #222222;
+  font-weight: 400;
+}
+.jump-icon.data-v-d18abb0e {
+  width: 32rpx;
+  height: 32rpx;
+}
+

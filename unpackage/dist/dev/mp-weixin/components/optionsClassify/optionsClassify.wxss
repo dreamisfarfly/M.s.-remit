@@ -1,0 +1,10 @@
+.options-classify.data-v-6552e4ec {
+  margin-top: 50rpx;
+}
+.tab-content.data-v-6552e4ec {
+  padding-top: 24rpx;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+

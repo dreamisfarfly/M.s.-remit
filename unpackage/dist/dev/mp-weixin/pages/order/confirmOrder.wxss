@@ -1,0 +1,57 @@
+.message.data-v-4eb60a48 {
+  flex: 1;
+  font-size: 28rpx;
+  font-weight: 400;
+  color: #999999;
+}
+.order-fund-information.data-v-4eb60a48 {
+  background-color: #FFFFFF;
+}
+.order-fund-list.data-v-4eb60a48 {
+  padding: 14rpx 0;
+  font-size: 28rpx;
+}
+.total-view.data-v-4eb60a48 {
+  padding: 20rpx 0 40rpx 0;
+}
+.order-fund-title.data-v-4eb60a48 {
+  font-weight: 400;
+  color: #1A1A1A;
+}
+.order-fund-price.data-v-4eb60a48 {
+  font-weight: 500;
+  color: #ED3632;
+}
+.operation-order.data-v-4eb60a48 {
+  background-color: #FFFFFF;
+}
+.operation-order .operation-order-info.data-v-4eb60a48 {
+  font-size: 28rpx;
+  font-weight: 500;
+  color: #1A1A1A;
+}
+.operation-order .operation-order-info text.data-v-4eb60a48 {
+  margin-left: 20rpx;
+  color: #ED3632;
+}
+.operation-order .wx-pay.data-v-4eb60a48 {
+  background: linear-gradient(62deg, #1F2020 0%, #444444 100%);
+  color: #FFFFFF;
+}
+.operation-order .cancel.data-v-4eb60a48 {
+  color: #4C4C4C;
+  border: 2rpx solid #979797;
+  box-sizing: border-box;
+  padding: 9rpx 24rpx!important;
+}
+.operation-order .operating-button.data-v-4eb60a48 {
+  padding: 10rpx 24rpx;
+  border-radius: 4rpx;
+  font-size: 24rpx;
+}
+.menu-location.data-v-4eb60a48 {
+  width: 100%;
+  background: #FFFFFF;
+  padding: 28rpx 30rpx;
+}
+

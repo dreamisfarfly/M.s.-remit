@@ -1,0 +1,1 @@
+<view class="page-general-padding data-v-4dcceeb0"><user-info vue-id="4a180d5e-1" class="data-v-4dcceeb0" bind:__l="__l"></user-info><user-order-status vue-id="4a180d5e-2" class="data-v-4dcceeb0" bind:__l="__l"></user-order-status><menus vue-id="4a180d5e-3" class="data-v-4dcceeb0" bind:__l="__l"></menus></view>

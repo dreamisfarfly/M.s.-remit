@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "商品详情页",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-swiper": "/uview-ui/components/u-swiper/u-swiper",
+    "u-tabs-swiper": "/uview-ui/components/u-tabs-swiper/u-tabs-swiper",
+    "u-parse": "/uview-ui/components/u-parse/u-parse",
+    "goods-operation-hurdle": "/pages/market/components/goodsOperationHurdle",
+    "group-goods-info": "/pages/market/components/groupGoodsInfo"
+  }
+}

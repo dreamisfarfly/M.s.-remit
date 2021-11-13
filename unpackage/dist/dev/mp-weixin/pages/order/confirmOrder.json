@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "确认订单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "select-address": "/pages/order/components/selectAddress",
+    "goods-order-card": "/pages/order/components/goodsOrderCard",
+    "order-price-info": "/pages/order/components/orderPriceInfo"
+  }
+}

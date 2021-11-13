@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "card-header": "/components/cardHeader/cardHeader"
+  },
+  "component": true
+}

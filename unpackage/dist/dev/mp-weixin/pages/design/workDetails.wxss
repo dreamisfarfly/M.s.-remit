@@ -1,0 +1,14 @@
+.work-details.data-v-698bc759 {
+  padding-top: 20rpx;
+}
+.works-label.data-v-698bc759 {
+  font-size: 28rpx;
+  font-weight: 400;
+  color: #222222;
+  line-height: 40rpx;
+  margin-bottom: 30rpx;
+}
+.show-pictures.data-v-698bc759 {
+  width: 100%;
+}
+

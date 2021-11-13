@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "设计师列表",
+  "usingComponents": {
+    "stylist-card": "/pages/design/components/stylistCard"
+  }
+}

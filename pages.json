@@ -1,0 +1,204 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+	    {
+            "path" : "pages/design/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "品装汇-设计",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		,{
+			"path": "pages/design/architectList",
+			"style": {
+				"navigationBarTitleText": "设计师列表"
+			}
+		}
+        ,{
+            "path" : "pages/my/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/market/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "品装汇-商城",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/market/recentDeals",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "近期团购",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/market/purchaseSucceeds",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "购买成功",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/build/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "品装汇-施工",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/helpFeedback",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "帮助反馈",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/order/myOrder",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的订单",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/feedback",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "意见反馈",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/order/shippingAddress",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "收货地址",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/order/editAddress",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "收货地址",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/market/commodityDetails",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "商品详情页",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/design/designDetails",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/design/workDetails",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/build/caseDetails",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/order/confirmOrder",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "确认订单",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/order/orderDetails",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的订单",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color":"#4C4C4C",
+		"selectedColor":"#1A1A1A",
+		"borderStyle":"black",
+		"backgroundColor":"#ffffff",
+		"list": [
+			{
+				"pagePath":"pages/design/index",
+				"text":"设计",
+				"iconPath":"static/images/design-icon.png",
+				"selectedIconPath":"static/images/select-design-icon.png"
+			},
+			{
+				"pagePath":"pages/build/index",
+				"text":"施工",
+				"iconPath":"static/images/build-icon.png",
+				"selectedIconPath":"static/images/select-build-icon.png"
+			},
+			{
+				"pagePath":"pages/market/index",
+				"text":"商城",
+				"iconPath":"static/images/market-icon.png",
+				"selectedIconPath":"static/images/select-market-icon.png"
+			},
+			{
+				"pagePath":"pages/my/index",
+				"text":"我的",
+				"iconPath":"static/images/my-icon.png",
+				"selectedIconPath":"static/images/select-my-icon.png"
+			}
+		]
+	}
+}

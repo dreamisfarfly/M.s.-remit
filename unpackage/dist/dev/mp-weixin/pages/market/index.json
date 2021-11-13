@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "品装汇-商城",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-swiper": "/uview-ui/components/u-swiper/u-swiper",
+    "options-classify": "/components/optionsClassify/optionsClassify",
+    "hot": "/pages/market/components/hot",
+    "recent-deals": "/pages/market/components/recentDeals",
+    "group-purchase-card": "/pages/market/components/groupPurchaseCard"
+  }
+}

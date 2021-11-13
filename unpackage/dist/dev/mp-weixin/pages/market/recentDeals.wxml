@@ -1,0 +1,1 @@
+<view class="recent-deals data-v-2deca652"><block wx:for="{{5}}" wx:for-item="item" wx:for-index="key" wx:key="key"><view class="groun-list data-v-2deca652"><group-purchase-card vue-id="{{'e0aeb618-1-'+key}}" class="data-v-2deca652" bind:__l="__l"></group-purchase-card></view></block></view>

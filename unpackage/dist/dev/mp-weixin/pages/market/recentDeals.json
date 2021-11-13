@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "近期团购",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "group-purchase-card": "/pages/market/components/groupPurchaseCard"
+  }
+}

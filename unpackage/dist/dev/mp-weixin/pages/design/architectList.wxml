@@ -1,0 +1,1 @@
+<view class="architect data-v-35993aca"><block wx:for="{{6}}" wx:for-item="item" wx:for-index="key" wx:key="key"><view class="architect-list data-v-35993aca"><stylist-card vue-id="{{'7d8d1c6a-1-'+key}}" type="list" class="data-v-35993aca" bind:__l="__l"></stylist-card></view></block></view>

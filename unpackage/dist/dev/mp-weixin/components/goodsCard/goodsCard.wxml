@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['e0',['$event']]]]]}}" class="goods-card data-v-6f69ba5c" bindtap="__e"><image class="goods-card-img data-v-6f69ba5c" src="{{img}}"></image><view class="goods-card-content data-v-6f69ba5c"><view class="goods-title data-v-6f69ba5c">大雁展翅般优美的曲线 给客厅一抹动人的微笑</view><view class="goods-price data-v-6f69ba5c">¥299.00/片</view></view></view>

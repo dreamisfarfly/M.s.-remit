@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "品装汇-设计",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-swiper": "/uview-ui/components/u-swiper/u-swiper",
+    "options-classify": "/components/optionsClassify/optionsClassify",
+    "excellent-designer": "/pages/design/components/excellentDesigner"
+  }
+}

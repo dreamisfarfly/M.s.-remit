@@ -1,0 +1,14 @@
+.no-order-data.data-v-67aadf18 {
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+}
+.no-order-data-img.data-v-67aadf18 {
+  width: 400rpx;
+  height: 400rpx;
+}
+.hint.data-v-67aadf18 {
+  font-weight: 400;
+  color: #B1B1B1;
+}
+

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的订单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-steps": "/uview-ui/components/u-steps/u-steps",
+    "select-address": "/pages/order/components/selectAddress",
+    "goods-order-card": "/pages/order/components/goodsOrderCard",
+    "order-price-info": "/pages/order/components/orderPriceInfo"
+  }
+}

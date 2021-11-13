@@ -1,0 +1,26 @@
+.recommend-menu.data-v-be930c44 {
+  height: 160rpx;
+  display: inline-flex;
+}
+.recommend-menu .big-img-view.data-v-be930c44 {
+  width: 374rpx;
+  height: 320rpx;
+  flex-shrink: 0;
+  border-radius: 10rpx;
+}
+.recommend-menu .thumbnail-view.data-v-be930c44 {
+  margin-left: 20rpx;
+  width: 296rpx;
+  flex-flow: column;
+  display: flex;
+}
+.recommend-menu .thumbnail-view .little-img.data-v-be930c44 {
+  width: 100%;
+  flex-shrink: 0;
+  height: 150rpx;
+  border-radius: 10rpx;
+}
+.recommend-menu .mar-top.data-v-be930c44 {
+  margin-top: 20rpx;
+}
+

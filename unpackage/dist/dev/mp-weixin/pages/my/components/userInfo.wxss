@@ -1,0 +1,46 @@
+.user-info.data-v-16002d70 {
+  width: 100%;
+  margin-top: 8rpx;
+  padding: 32rpx 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: PingFangSC-Medium, PingFang SC;
+}
+.user-info .label-info.data-v-16002d70 {
+  display: flex;
+  align-items: center;
+}
+.user-info .label-info .user-img.data-v-16002d70 {
+  width: 104rpx;
+  height: 104rpx;
+  border-radius: 50% 50%;
+}
+.user-info .label-info .login-info.data-v-16002d70 {
+  margin-left: 24rpx;
+  font-size: 36rpx;
+  font-weight: 550;
+  color: #1F2020;
+  line-height: 25rpx;
+}
+.user-info .label-info .use-info-details.data-v-16002d70 {
+  margin-left: 24rpx;
+}
+.user-info .label-info .use-info-details .user-title.data-v-16002d70 {
+  font-size: 36rpx;
+  font-weight: 550;
+  color: #1F2020;
+  line-height: 50rpx;
+}
+.user-info .label-info .use-info-details .user-id.data-v-16002d70 {
+  margin-top: 4px;
+  font-size: 24rpx;
+  font-weight: 400;
+  color: #999999;
+  line-height: 34rpx;
+}
+.user-info .right-icon.data-v-16002d70 {
+  width: 40rpx;
+  height: 40rpx;
+}
+

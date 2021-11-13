@@ -1,0 +1,63 @@
+{
+  "pages": [
+    "pages/design/index",
+    "pages/design/architectList",
+    "pages/my/index",
+    "pages/market/index",
+    "pages/market/recentDeals",
+    "pages/market/purchaseSucceeds",
+    "pages/build/index",
+    "pages/my/helpFeedback",
+    "pages/order/myOrder",
+    "pages/my/feedback",
+    "pages/order/shippingAddress",
+    "pages/order/editAddress",
+    "pages/market/commodityDetails",
+    "pages/design/designDetails",
+    "pages/design/workDetails",
+    "pages/build/caseDetails",
+    "pages/order/confirmOrder",
+    "pages/order/orderDetails"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#4C4C4C",
+    "selectedColor": "#1A1A1A",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/design/index",
+        "text": "设计",
+        "iconPath": "static/images/design-icon.png",
+        "selectedIconPath": "static/images/select-design-icon.png"
+      },
+      {
+        "pagePath": "pages/build/index",
+        "text": "施工",
+        "iconPath": "static/images/build-icon.png",
+        "selectedIconPath": "static/images/select-build-icon.png"
+      },
+      {
+        "pagePath": "pages/market/index",
+        "text": "商城",
+        "iconPath": "static/images/market-icon.png",
+        "selectedIconPath": "static/images/select-market-icon.png"
+      },
+      {
+        "pagePath": "pages/my/index",
+        "text": "我的",
+        "iconPath": "static/images/my-icon.png",
+        "selectedIconPath": "static/images/select-my-icon.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

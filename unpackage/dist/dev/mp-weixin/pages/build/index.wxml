@@ -1,0 +1,1 @@
+<view class="data-v-6ded6cf0"><u-swiper vue-id="5820687e-1" list="{{bannerList}}" height="360" class="data-v-6ded6cf0" bind:__l="__l"></u-swiper><view class="page-general-padding data-v-6ded6cf0"><good-master vue-id="5820687e-2" class="data-v-6ded6cf0" bind:__l="__l"></good-master><case-show vue-id="5820687e-3" class="data-v-6ded6cf0" bind:__l="__l"></case-show></view></view>

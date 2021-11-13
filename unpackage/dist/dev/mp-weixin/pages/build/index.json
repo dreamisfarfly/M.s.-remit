@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "品装汇-施工",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-swiper": "/uview-ui/components/u-swiper/u-swiper",
+    "good-master": "/pages/build/components/goodMaster",
+    "case-show": "/pages/build/components/caseShow"
+  }
+}

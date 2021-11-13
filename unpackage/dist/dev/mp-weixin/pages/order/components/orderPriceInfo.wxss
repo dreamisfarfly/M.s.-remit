@@ -1,0 +1,19 @@
+.order-fund-information.data-v-694ea498 {
+  background-color: #FFFFFF;
+}
+.order-fund-list.data-v-694ea498 {
+  padding: 14rpx 0;
+  font-size: 28rpx;
+}
+.total-view.data-v-694ea498 {
+  padding: 20rpx 0 40rpx 0;
+}
+.order-fund-title.data-v-694ea498 {
+  font-weight: 400;
+  color: #1A1A1A;
+}
+.order-fund-price.data-v-694ea498 {
+  font-weight: 500;
+  color: #ED3632;
+}
+

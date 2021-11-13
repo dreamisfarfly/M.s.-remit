@@ -1,0 +1,88 @@
+/**
+ * 页面通用内边距
+ */
+.page-general-padding{
+	padding: 0 30rpx;
+}
+
+.build-content {
+	padding: 0 30rpx;
+}
+
+.scroll-view_H {
+	overflow: hidden;
+	white-space: nowrap;
+	width: 100%;
+}
+
+.flex {
+	display: flex;
+}
+
+.interpose {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.both-sides-align {
+	display: flex;
+	justify-content: space-between;
+}
+
+.settle-down {
+	display: flex;
+	align-items: flex-end;
+}
+
+.center-horizontally {
+	display: flex;
+	align-items: center;
+}
+
+.across-center {
+	display: flex;
+	justify-content: center;
+}
+
+.menu-location {
+	position: fixed;
+	bottom: 0rpx;
+}
+
+.separator {
+	height: 2rpx;
+	background: rgba(0, 0, 0, 0.08);
+}
+
+.column {
+	flex-flow: column;
+}
+
+.specification {
+	margin-top: 20rpx;
+	padding: 30rpx 30rpx;
+	background-color: #FFFFFF;
+	font-weight: 400;
+	font-size: 28rpx;
+	
+	/*.specification-label {
+		color: #4C4C4C;
+	}
+
+	.specification-val {
+		color: #1A1A1A;
+	}*/
+}
+
+.m-l-20{
+	margin-left: 20rpx;
+}
+
+.m-t-20{
+	margin-top: 20rpx;
+}
+
+.m-r-20{
+	margin-right: 20rpx;
+}

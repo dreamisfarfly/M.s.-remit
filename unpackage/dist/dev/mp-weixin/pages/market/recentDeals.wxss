@@ -1,0 +1,9 @@
+.recent-deals.data-v-2deca652 {
+  padding: 0 30rpx;
+  box-sizing: border-box;
+  font-family: PingFangSC-Medium, PingFang SC;
+}
+.groun-list.data-v-2deca652 {
+  margin-top: 20rpx;
+}
+

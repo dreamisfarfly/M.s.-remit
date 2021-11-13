@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "收货地址",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "pick-regions": "/components/pick-regions/pick-regions",
+    "u-switch": "/uview-ui/components/u-switch/u-switch"
+  }
+}
