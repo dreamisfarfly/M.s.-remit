@@ -1,5 +1,5 @@
 <template>
-	<view class="stylist-card" @tap="tapUrl()">
+	<view class="stylist-card"><!-- @tap="tapUrl()" -->
 		<image class="head-portrait" src="@/static/logo.png"></image>
 		<view class="architect-info">
 			<view class="info-lable">
