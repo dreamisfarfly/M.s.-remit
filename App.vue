@@ -13,8 +13,8 @@
 </script>
 
 <style lang="scss">
-	@import "/uview-ui/index.scss"
-	@import "@/lib/css/common.css"
+	@import "/uview-ui/index.scss";
+	@import "@/lib/css/common.css";
 	/*每个页面公共css */
 	page{
 		background: #F9FAF9;
